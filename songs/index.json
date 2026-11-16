@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 2,
+  "songs": [
+    {
+      "id": "demo-track-01",
+      "title": "鬼滅之刃-紅蓮華",
+      "artist": "Neon Beat Stage",
+      "folder": "songs/Demo Track",
+      "duration": 90,
+      "media": {
+        "coverPng": "songs/Demo Track/01.png",
+        "previewMp3": "songs/Demo Track/01.mp3",
+        "gameplayMp4": "songs/Demo Track/01.mp4"
+      },
+      "difficulties": {
+        "easy": {
+          "label": "簡單",
+          "stars": 2,
+          "chart": "songs/Demo Track/chart_easy.json"
+        },
+        "hard": {
+          "label": "困難",
+          "stars": 4,
+          "chart": "songs/Demo Track/chart_hard.json"
+        }
+      }
+    },
+    {
+      "id": "demo-track-02",
+      "title": "吉伊卡哇劇場版 人魚島的秘密 烏薩奇RAP",
+      "artist": "Pulse Alley",
+      "folder": "songs/Demo Track 02",
+      "duration": 30,
+      "media": {
+        "coverPng": "songs/Demo Track 02/cover.png",
+        "previewMp3": "songs/Demo Track 02/02.mp3",
+        "gameplayMp4": "songs/Demo Track 02/02.mp4"
+      },
+      "difficulties": {
+        "easy": {
+          "label": "簡單",
+          "stars": 1,
+          "chart": "songs/Demo Track 02/chart_easy.json"
+        },
+        "hard": {
+          "label": "困難",
+          "stars": 3,
+          "chart": "songs/Demo Track 02/chart_hard.json"
+        }
+      }
+    },
+    {
+      "id": "demo-track-03",
+      "title": "Demo Track 03",
+      "artist": "Chrome Voltage",
+      "folder": "songs/Demo Track 03",
+      "duration": 32,
+      "media": {
+        "coverPng": "",
+        "previewMp3": "",
+        "gameplayMp4": ""
+      },
+      "difficulties": {
+        "easy": {
+          "label": "簡單",
+          "stars": 2,
+          "chart": "songs/Demo Track 03/chart_easy.json"
+        },
+        "hard": {
+          "label": "困難",
+          "stars": 4,
+          "chart": "songs/Demo Track 03/chart_hard.json"
+        }
+      }
+    },
+    {
+      "id": "demo-track-04",
+      "title": "Demo Track 04",
+      "artist": "Arc Light",
+      "folder": "songs/Demo Track 04",
+      "duration": 34,
+      "media": {
+        "coverPng": "",
+        "previewMp3": "",
+        "gameplayMp4": ""
+      },
+      "difficulties": {
+        "easy": {
+          "label": "簡單",
+          "stars": 3,
+          "chart": "songs/Demo Track 04/chart_easy.json"
+        },
+        "hard": {
+          "label": "困難",
+          "stars": 5,
+          "chart": "songs/Demo Track 04/chart_hard.json"
+        }
+      }
+    },
+    {
+      "id": "demo-track-05",
+      "title": "Demo Track 05",
+      "artist": "Signal Riot",
+      "folder": "songs/Demo Track 05",
+      "duration": 36,
+      "media": {
+        "coverPng": "",
+        "previewMp3": "",
+        "gameplayMp4": ""
+      },
+      "difficulties": {
+        "easy": {
+          "label": "簡單",
+          "stars": 2,
+          "chart": "songs/Demo Track 05/chart_easy.json"
+        },
+        "hard": {
+          "label": "困難",
+          "stars": 5,
+          "chart": "songs/Demo Track 05/chart_hard.json"
+        }
+      }
+    }
+  ]
+}
